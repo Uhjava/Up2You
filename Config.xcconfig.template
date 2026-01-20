@@ -1,0 +1,15 @@
+//
+//  Config.xcconfig.template
+//  WhatsForDinner
+//
+//  Copy this file to Config.xcconfig and add your API keys
+//  DO NOT commit Config.xcconfig to version control
+//
+
+// Spoonacular API Key
+// Get your free API key at: https://spoonacular.com/food-api
+SPOONACULAR_API_KEY = YOUR_SPOONACULAR_API_KEY_HERE
+
+// Yelp Fusion API Key
+// Get your API key at: https://www.yelp.com/developers
+YELP_API_KEY = YOUR_YELP_API_KEY_HERE
